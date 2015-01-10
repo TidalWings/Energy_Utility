@@ -1,5 +1,5 @@
 # Environmental Conserving Energy Calculator (E.C.E.C.)
-
+RIP OLD REPOSITORY
 Energy Utility Application developed during HACK UCSC 2015.
 
 Android Application designed to be used as a utility application.
